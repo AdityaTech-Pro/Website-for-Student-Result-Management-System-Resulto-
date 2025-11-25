@@ -1,0 +1,2 @@
+# Website-for-Student-Result-Management-System-Resulto-
+It use to Manage the Student Result and can also use in different purpose Like Managing Company Data, University Data, Offical-Unoffical Data, Data Present on Government website and All other Platform that Carry Data .
